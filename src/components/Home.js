@@ -5,7 +5,7 @@ function Home() {
     <div>
     <br/>
     <br/>
-  <h1>Home</h1>
+  <h1>Home Sayfasıdır.</h1>
   </div>
   )
   }
