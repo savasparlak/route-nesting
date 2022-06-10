@@ -6,7 +6,7 @@ function About() {
       <div>
       <br/>
       <br/>
-    <h1>About</h1>
+    <h1>About Sayfasıdır.</h1>
     </div>
     )
   }
